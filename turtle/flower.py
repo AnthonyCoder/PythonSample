@@ -1,7 +1,7 @@
 # coding=utf-8
 import turtle
-import time
 
+# 绘制一朵花
 # 同时设置pencolor=color1, fillcolor=color2
 turtle.color("red", "yellow")
 

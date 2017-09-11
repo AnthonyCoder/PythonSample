@@ -1,6 +1,8 @@
 import turtle
 from datetime import *
 
+# 实现一个时钟功能
+
 
 # 抬起画笔，向前运动一段距离放下
 def Skip(step):

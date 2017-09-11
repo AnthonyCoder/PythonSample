@@ -1,5 +1,8 @@
 import turtle
 import math
+
+# 实现美国国旗绘制
+
 # 控制画笔的速度
 turtle.speed(10)
 # 将画笔指向到原点

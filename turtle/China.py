@@ -1,5 +1,8 @@
 import turtle
 import math
+
+# 实现中国国旗绘制
+
 # 控制画笔的速度
 turtle.speed(8)
 # 将画笔指向到原点
